@@ -40,3 +40,7 @@ The project is organised into four main parts:
  - [Screens] Contains the main pages of the application.
  - [UI_Template] Defines the application's shared styles, colours, fonts, and design elements.
 
+## Current Project Status
+
+The application currently includes the main interface, navigation structure, reusable components, job listings, and interactive filter elements. Some features are still under development.
+
