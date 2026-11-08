@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# Welcome to Sebastian's repository for mobile development 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+
+To run this app you should:
 
 1. Install dependencies
 
@@ -24,7 +25,11 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-After select one those options, the app must run smoothly
+After select one of those options, the app must run smoothly
+
+## Project Description
+
+A mobile application designed to help students find job opportunities that suit their availability, experience, and preferences.
 
 ## Project Structure
 
@@ -34,7 +39,4 @@ The project is organised into four main parts:
  - [Navigator] Manages navigation between the different screens.
  - [Screens] Contains the main pages of the application.
  - [UI_Template] Defines the application's shared styles, colours, fonts, and design elements.
-=======
-# SAE_ITC502
-A mobile application that helps students find suitable job opportunities.
->>>>>>> 70091b1608ac37639b9fd9440a9e3b48cfa0802b
+
